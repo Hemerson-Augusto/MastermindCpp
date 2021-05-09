@@ -1,0 +1,4 @@
+﻿  Aula08052021_2.cpp
+D:\TestesVS\Aula08052021_2\Aula08052021_2.cpp(13,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+D:\TestesVS\Aula08052021_2\Aula08052021_2.cpp(11,54): warning C4101: 'contador': variável local não referenciada
+  Aula08052021_2.vcxproj -> D:\TestesVS\Aula08052021_2\x64\Debug\Aula08052021_2.exe
